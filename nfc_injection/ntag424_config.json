@@ -1,0 +1,8 @@
+{
+    "masterKey": "0123456789ABCDEF0123456789ABCDEF",
+    "sdmKey": "FEDCBA9876543210FEDCBA9876543210",
+    "ndefKey": "AABBCCDDEEFF00112233445566778899",
+    "defaultKey": "00000000000000000000000000000000",
+    "uriTemplate": "emoai://chip/{chipId}",
+    "chipIdPrefix": "EMO-424-"
+}
