@@ -1,0 +1,17 @@
+# Android
+android/EmotionAiNFC/.gradle/
+android/EmotionAiNFC/app/build/
+android/EmotionAiNFC/build/
+android/EmotionAiNFC/local.properties
+*.iml
+.idea/
+
+# Server
+server/node_modules/
+server/emotion_ai.db
+server/emotion_ai.db-shm
+server/emotion_ai.db-wal
+
+# OS
+.DS_Store
+Thumbs.db
